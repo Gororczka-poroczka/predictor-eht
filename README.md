@@ -13,7 +13,7 @@ High-performance machine learning pipeline designed to predict Ethereum (ETH) pr
 
 ---
 
-### 📈 Performance Results
+### Performance Results
 
 * **Directional Accuracy**: Achieved a steady **~55% accuracy** on a 1-year backtest.
 * **Strategy vs Market**:
@@ -25,7 +25,7 @@ High-performance machine learning pipeline designed to predict Ethereum (ETH) pr
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 * **Language**: Python
 * **AI Model**: XGBoost Classifier
@@ -34,7 +34,7 @@ High-performance machine learning pipeline designed to predict Ethereum (ETH) pr
 
 ---
 
-### 📂 Project Structure
+### Project Structure
 
 * `crypto_app.py`: Main web dashboard for real-time signals.
 * `crypto_predictor.ipynb`: Research and development notebook.
@@ -42,7 +42,7 @@ High-performance machine learning pipeline designed to predict Ethereum (ETH) pr
 
 ---
 
-### 🚀 Quick Start
+###  Quick Start
 
 1. **Install Dependencies**:
 ```bash
